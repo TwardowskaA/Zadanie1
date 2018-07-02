@@ -6,7 +6,7 @@ public class Zadanie1 {
         System.out.println("i");
         System.out.println("commitowania");
 //        System.out.println("Myślałam, że będzie gorzej")
-
+        System.out.print("123456")
     }
 
 
